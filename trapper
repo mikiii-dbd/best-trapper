@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Mikiii - Najlepszy Trapper</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #f1f1f1;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1e1e1e;
+      padding: 30px;
+      text-align: center;
+      border-bottom: 2px solid #e50914;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.8em;
+      color: #e50914;
+    }
+
+    .content {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #1a1a1a;
+      border-left: 5px solid gold;
+      border-radius: 10px;
+      text-align: center;
+    }
+
+    .content h2 {
+      color: #ffffff;
+    }
+
+    .content p {
+      font-size: 1.2em;
+      color: #ccc;
+    }
+
+    img.trapper-img {
+      width: 300px;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #000;
+    }
+
+    footer {
+      text-align: center;
+      color: #555;
+      margin: 50px 0 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Dead by Daylight - Mikiii</h1>
+  </header>
+
+  <div class="content">
+    <h2>🥇 Mikiii – Najlepszy Trapper w Europie</h2>
+    <p>Legenda Dead by Daylight. Mistrz pułapek. Postrach wszystkich ocalałych.</p>
+    <img class="trapper-img" src="https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/K01_charPreview.png" alt="The Trapper z Dead by Daylight">
+  </div>
+
+  <footer>
+    &copy; 2025 Mikiii - DBD Legend
+  </footer>
+
+</body>
+</html>
